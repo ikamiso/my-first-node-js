@@ -1,0 +1,95 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+|2,0,1587496932,,"q"
+:wq
+|2,0,1585663757,,"wq"
+:w
+|2,0,1585662784,,"w"
+:p
+|2,0,1585662609,,"p"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	た
+|3,1,36,0,1,0,1585663154,"た"
+
+# ファイルマーク:
+'0  1  0  ~/workspace/git-study/index.html
+|4,48,1,0,1587496932,"~/workspace/git-study/index.html"
+'1  153  0  /tmp/tutorgtWsyj
+|4,49,153,0,1585663757,"/tmp/tutorgtWsyj"
+'2  1  0  ~/workspace/vim-study/test.txt
+|4,50,1,0,1585662801,"~/workspace/vim-study/test.txt"
+'3  1  0  ~/.profile
+|4,51,1,0,1585662684,"~/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/workspace/git-study/index.html
+|4,39,1,0,1587496932,"~/workspace/git-study/index.html"
+-'  153  0  /tmp/tutorgtWsyj
+|4,39,153,0,1585663757,"/tmp/tutorgtWsyj"
+-'  153  0  /tmp/tutorgtWsyj
+|4,39,153,0,1585663757,"/tmp/tutorgtWsyj"
+-'  1  0  /tmp/tutorgtWsyj
+|4,39,1,0,1585662971,"/tmp/tutorgtWsyj"
+-'  1  0  /tmp/tutorgtWsyj
+|4,39,1,0,1585662971,"/tmp/tutorgtWsyj"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1585662801,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1585662801,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/.profile
+|4,39,1,0,1585662684,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1585662684,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1585662684,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1585662684,"~/.profile"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/index.html
+	*	1587496926	0
+	"	1	0
+
+> /tmp/tutorgtWsyj
+	*	1585663747	0
+	"	153	0
+	^	133	59
+	.	133	56
+	+	83	59
+	+	90	0
+	+	24	0
+	+	110	0
+	+	108	58
+	+	131	56
+	+	133	56
+
+> ~/workspace/vim-study/test.txt
+	*	1585662799	0
+	"	1	0
+
+> ~/.profile
+	*	1585662682	0
+	"	1	0
